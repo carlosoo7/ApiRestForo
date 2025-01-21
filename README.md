@@ -28,6 +28,18 @@ Esta es una **API Restful** desarrollada con **Spring Boot** para gestionar un f
 - **JWT (JSON Web Tokens)**: Para la autenticación basada en tokens.
 - **BCrypt**: Para la codificación de contraseñas.
 
+## Swagger
+
+### URL de Documentación
+
+La documentación interactiva de la API generada por Swagger se encuentra disponible en:
+
+- [Swagger UI](http://localhost:8080/swagger-ui/index.html)
+- [Especificación OpenAPI](http://localhost:8080/v3/api-docs)
+
+Estas herramientas permiten probar los endpoints de la API directamente desde el navegador.
+
+
 ## Endpoints
 
 ### Autenticación
