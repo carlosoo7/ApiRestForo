@@ -34,7 +34,7 @@ Esta es una **API Restful** desarrollada con **Spring Boot** para gestionar un f
 
 La documentación interactiva de la API generada por Swagger se encuentra disponible en:
 
-##**Importante** Para que estos links funcionene debe estar ejecutandose la app en tu ide y/o localhost
+## **Importante** Para que estos links funcionene debe estar ejecutandose la app en tu ide y/o localhost
 - [Swagger UI](http://localhost:8080/swagger-ui/index.html)
 - [Especificación OpenAPI](http://localhost:8080/v3/api-docs)
 
